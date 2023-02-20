@@ -2,9 +2,10 @@
 Personal Web Page
 
 You can find my personal website here:
-http://www.tsc.uc3m.es/~dbarrejon/
+https://dbarrejon.github.io/
 
 
+<!---
 # 📓 Dani Barrejon Blog 
 
 ### Init Blog  
@@ -65,3 +66,4 @@ git push
 For more information on _submodules_, check [this website](http://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 
+--->
